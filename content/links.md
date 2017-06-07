@@ -2,7 +2,7 @@
 date: '2017-03-04'
 ---
 
-`Cloned from Daijiang`
+`Cloned from [Daijiang](https://daijiang.name/)`
 ### R
 
 + [R-resources](http://www.cerebralmastication.com/r-resources/) listed by Cerebral Mastication.
