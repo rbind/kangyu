@@ -23,16 +23,16 @@ menu:
 #    - name: "CV"
 #      url: "/cv/"
 #      weight: 2
-    - name: "Research"
-      url: "/research/"
-      weight: 3
-    - name: "Links"
-      url: "/links/"
-      weight: 4
+#    - name: "Research"
+#      url: "/research/"
+#      weight: 3
+#    - name: "Links"
+#      url: "/links/"
+#      weight: 4
     - name: "Blog"
       url: "/en/"
       weight: 5
-    - name: "博客"
+    - name: "中文"
       url: "/cn/"
       weight: 6
   en:

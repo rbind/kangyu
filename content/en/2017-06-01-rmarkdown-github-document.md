@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Untitled rmarkdown documents"
 date: "2017-06-01"
 output: github_document
 from_Rmd: yes
