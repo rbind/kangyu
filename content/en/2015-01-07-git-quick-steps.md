@@ -47,7 +47,7 @@ git commit -m "merge changes"
 git push -u origin master
 ```
 
-# Markdown guide
+**Markdown guide**
 
 https://guides.github.com/features/mastering-markdown/ 
 https://en.support.wordpress.com/markdown-quick-reference/ 
