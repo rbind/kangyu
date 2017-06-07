@@ -3,7 +3,6 @@ layout: post
 title: "slides with knit jekyll"
 author: KY
 date: "2016-04-17"
-output: ioslides_presentation
 ---
 
 
