@@ -20,9 +20,9 @@ menu:
     - name: "About"
       url: "/about/"
       weight: 1
-    - name: "CV"
-      url: "/cv/"
-      weight: 2
+#    - name: "CV"
+#      url: "/cv/"
+#      weight: 2
     - name: "Research"
       url: "/research/"
       weight: 3

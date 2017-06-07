@@ -10,7 +10,7 @@ Full cv available [here](/pdf/cv.pdf).
 
 ## Current Position
 
-I am currently a postdoc in the [DEPARTMENT OF EARTH AND ENVIRONMENTAL SCIENCES](http://ees.kuleuven.be/) at the [University of Leuven](http://www.kuleuven.be).
+I am currently a postdoc in the [Department of Earth and Environmental Sciences](http://ees.kuleuven.be/) at the [University of Leuven](http://www.kuleuven.be).
 
 ## Education
 
