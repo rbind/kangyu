@@ -45,6 +45,9 @@ menu:
     - name: "Blog"
       url: "/en/"
       weight: 3
+    - name: "Notes"
+      url: "http://kangyu.postach.io/"
+      weight: 3
     - name: "中文"
       url: "/cn/"
       weight: 4
