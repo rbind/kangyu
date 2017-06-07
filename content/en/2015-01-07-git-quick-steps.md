@@ -37,6 +37,16 @@ git commit -m "changes"
 git push -u origin master
 ```
 
+# update from online(remote) edits
+
+```
+git pull origin master
+git commit -m "pull remote changes"
+git add .
+git commit -m "merge changes"
+git push -u origin master
+```
+
 # Markdown guide
 
 https://guides.github.com/features/mastering-markdown/ 
