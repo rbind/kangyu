@@ -3,6 +3,7 @@ title: "About"
 date: '2014-01-31'
 disable_mathjax: true
 disable_highlight: false
+disable_comments: true
 slug: "about"
 ---
 
