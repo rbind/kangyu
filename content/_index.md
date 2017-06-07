@@ -5,7 +5,7 @@ disable_mathjax: true
 disable_highlight: true
 ---
 
-<div id="widerimg">
+<div id="img">
     <img src="/images/sunset.jpg">
 </div>
 <center><strong> Explore the Nature & Unknowns </strong></center>
