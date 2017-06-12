@@ -50,5 +50,7 @@ git push -u origin master
 **Markdown guide**
 
 https://guides.github.com/features/mastering-markdown/ 
+
 https://en.support.wordpress.com/markdown-quick-reference/ 
+
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
