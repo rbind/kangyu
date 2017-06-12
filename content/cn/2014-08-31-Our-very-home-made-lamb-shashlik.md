@@ -1,7 +1,7 @@
 ---
 title: 自制羊肉串
 author: 于康
-date: '2017-06-12'
+date: '2014-08-31'
 slug: Our very-home-made lamb shashlik
 categories: []
 tags:
