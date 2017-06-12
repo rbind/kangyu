@@ -23,4 +23,4 @@ Results:
 Conclusions:
 All of the four guys drawn a same conclusion that our home made lamb shashlik was not statistically different (p > 0.1) from the traditional Chinese ones, and that ours tasted even better.
 
-![](http://imgur.com/RhuBls9)
+![Imgur](http://i.imgur.com/RhuBls9.jpg)
