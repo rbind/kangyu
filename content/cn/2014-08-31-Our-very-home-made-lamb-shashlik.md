@@ -8,19 +8,14 @@ tags:
   - food
 ---
 
-一片旧的流水账
+旧站搬家，见一篇旧的英文流水账，想起了德国的生活，故补记一篇！
 
-Abstract:
-To celebrate Li'ang passed the theory test for driving license, we made the lamb shashlik for BBQ on the last day of August. We conclude that it was the most delicious shashlik that we had ever tasted.
+在国外到小伙伴，为来吃亲自动手的动力和能力一般是要超过国内的小伙伴的。凡是可以想到的值得庆祝的借口，大多不会放过，必须通过吃喝来庆祝！
 
-Introduction:
-Materials and methods:
-... to be updated
+Li'ang兄弟拿了德国驾照，自然是个开吃的好理由。于是，超市里羊肉啤酒备足，准备烤羊肉串，周末在屋里，客厅烧烤！（具体原因忘了！外面太冷？下雨？）周末从上午把羊肉拿出来解冻，切成肉块，放调料腌制，上串，我居然一气呵成，当然有黄兄一旁技术指导。
 
-Results:
-... as shown in the picture.
+用的是一次性的烤架，还是双架齐驱！蛋清裹着的羊肉显得格外鲜亮，黄兄老家带来的辣椒面，让寂寞的留学生活多了些滋味。四个无辣不欢的汉子，从下午一直干到夜里，重复着“这是人生前三十年吃过的最好吃的羊肉串”！这真不是喝多了的状态！
 
-Conclusions:
-All of the four guys drawn a same conclusion that our home made lamb shashlik was not statistically different (p > 0.1) from the traditional Chinese ones, and that ours tasted even better.
+现如今，那四个汉子都已博士毕业许久，奔四去了。但这一顿羊肉串的味道或许可以长久保鲜！
 
 ![Imgur](http://i.imgur.com/RhuBls9.jpg)
