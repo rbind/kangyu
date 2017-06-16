@@ -1,5 +1,5 @@
 ---
-title: git quick steps
+title: Git quick steps
 author: Kang
 date: '2015-01-07'
 slug: git-quick-steps
@@ -10,9 +10,8 @@ tags:
 
 # Quick setups
 
-…or create a new repository on the command line
+… create a new repository on the command line
 
-echo "# kangyu" >> README.md
 ```
 git init
 git add README.md
