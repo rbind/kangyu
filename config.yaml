@@ -29,6 +29,9 @@ menu:
 #    - name: "Links"
 #      url: "/links/"
 #      weight: 4
+    - name: "Image story"
+      url: "/imstory/"
+      weight: 4
     - name: "Blog"
       url: "/en/"
       weight: 5
