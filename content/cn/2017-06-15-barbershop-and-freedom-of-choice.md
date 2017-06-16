@@ -2,7 +2,7 @@
 title: 百年理发店的洗剪吹和自由
 author: ''
 date: '2017-04-29'
-slug: barbershop and freedom of choice
+slug: barbershop and freedom
 categories: []
 tags: []
 ---
