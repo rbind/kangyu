@@ -3,6 +3,7 @@ title: "Image Story"
 date: '2017-05-01'
 disable_mathjax: true
 disable_highlight: false
+disable_comments: true
 slug: "imstory"
 ---
 
