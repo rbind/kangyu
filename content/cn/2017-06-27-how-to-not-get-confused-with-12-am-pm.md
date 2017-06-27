@@ -2,7 +2,7 @@
 title: 12 AM/PM 是什么鬼
 author: Kang
 date: '2017-06-27'
-slug: 12-how-to-not-get-confused-with-12-am-pm
+slug: how-to-not-get-confused-with-12-am-pm
 categories: []
 tags: []
 ---
