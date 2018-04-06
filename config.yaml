@@ -80,7 +80,7 @@ menu:
     - name: "博客"
       url: "/cn/"
       weight: 3
-    - name: "试验"
+    - name: "混沌"
       url: "/test/"
       weight: 4
     - name: "English"
