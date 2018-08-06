@@ -1,5 +1,5 @@
 ---
-title: "This untitled rmarkdown documents is to fill the gap 2016 :-)"
+title: "This untitled rmarkdown document is to fill the gap 2016 :-)"
 date: "2016-06-01"
 output: github_document
 from_Rmd: yes
