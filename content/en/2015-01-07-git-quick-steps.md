@@ -39,7 +39,6 @@ git push -u origin master
 
 # When update across devices, it needs to
 ** update from online(remote) changes**
-
 ```
 git pull origin master
 git commit -m "pull remote changes"
@@ -48,12 +47,9 @@ git commit -m "merge changes"
 git push -u origin master
 ```
 
-# these steps can also be done in the Rstudio without coding
+# These steps can also be done in Rstudio without coding
 
-**Markdown guide**
-
-https://guides.github.com/features/mastering-markdown/ 
-
-https://en.support.wordpress.com/markdown-quick-reference/ 
-
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
+**More about Markdown**
+[GitHub Guides](https://guides.github.com/features/mastering-markdown/)
+[Markdown quick reference](https://en.support.wordpress.com/markdown-quick-reference/) 
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
