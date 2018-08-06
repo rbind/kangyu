@@ -47,9 +47,9 @@ git commit -m "merge changes"
 git push -u origin master
 ```
 
-# These steps can also be done in Rstudio without coding
+These steps can also be done in Rstudio without coding.
 
 **More about Markdown**
-[GitHub Guides](https://guides.github.com/features/mastering-markdown/)
-[Markdown quick reference](https://en.support.wordpress.com/markdown-quick-reference/) 
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+* [GitHub Guides](https://guides.github.com/features/mastering-markdown/)
+* [Markdown quick reference](https://en.support.wordpress.com/markdown-quick-reference/) 
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
