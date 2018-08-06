@@ -16,6 +16,7 @@ tags:
 git init
 git add README.md
 git commit -m "first commit"
+# e.g. the repo of this blog
 git remote add origin https://github.com/rbind/kangyu.git
 git push -u origin master
 ```
@@ -29,15 +30,15 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 Import code
 
 # Update changes
-
+after making local changes and you wish to push to your github repo
 ```
 git add .
 git commit -m "changes"
 git push -u origin master
 ```
 
-# When update across devices, needs
-## update from online(remote) edits
+# When update across devices, it needs to
+** update from online(remote) changes**
 
 ```
 git pull origin master
