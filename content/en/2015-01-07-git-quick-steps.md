@@ -36,7 +36,8 @@ git commit -m "changes"
 git push -u origin master
 ```
 
-# update from online(remote) edits
+# When update across devices, needs
+## update from online(remote) edits
 
 ```
 git pull origin master
