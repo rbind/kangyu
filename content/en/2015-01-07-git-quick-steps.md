@@ -1,5 +1,5 @@
 ---
-title: Git quick steps
+title: "Git quick steps"
 author: Kang
 date: '2015-01-07'
 slug: git-quick-steps
