@@ -29,7 +29,7 @@ menu:
 #    - name: "Links"
 #      url: "/links/"
 #      weight: 4
-    - name: "Image story"
+    - name: "ImageStory"
       url: "/imstory/"
       weight: 4
     - name: "Blog"
@@ -61,31 +61,37 @@ menu:
     - name: "关于"
       url: "/cn/about/"
       weight: 2
+    - name: "影迹"
+      url: "/imstory/"
+      weight: 3
     - name: "博客"
       url: "/cn/"
-      weight: 3
-    - name: "试验"
-      url: "/test/"
       weight: 4
+    - name: "..."
+      url: "/test/"
+      weight: 
     - name: "English"
       url: "/en/"
       weight: 5
   test:
-    - name: "首页"
-      url: "/"
-      weight: 1
-    - name: "关于"
-      url: "/cn/about/"
-      weight: 2
-    - name: "博客"
-      url: "/cn/"
-      weight: 3
-    - name: "混沌"
+#    - name: "首页"
+#      url: "/"
+#      weight: 1
+#   - name: "关于"
+#      url: "/cn/about/"
+#      weight: 2
+#    - name: "博客"
+#      url: "/cn/"
+#      weight: 3
+    - name: "🚧施工请绕行🚧"
       url: "/test/"
       weight: 4
     - name: "English"
       url: "/en/"
-      weight: 5
+      weight:
+    - name: "中文"
+      url: "/cn/"
+      weight: 
 
 params:
   description: "Personal website of Kang Yu"
