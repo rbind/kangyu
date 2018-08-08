@@ -17,9 +17,10 @@ permalinks:
 
 menu:
   main:
+# home is not shown on Home  
     - name: "About"
       url: "/about/"
-      weight: 1
+      weight: 5
 #    - name: "CV"
 #      url: "/cv/"
 #      weight: 2
@@ -31,10 +32,10 @@ menu:
 #      weight: 4
     - name: "ImageStory"
       url: "/imstory/"
-      weight: 4
+      weight: 2
     - name: "Blog"
       url: "/en/"
-      weight: 5
+      weight: 1
     - name: "中文"
       url: "/cn/"
       weight: 6
@@ -42,31 +43,31 @@ menu:
     - name: "Home"
       url: "/"
       weight: 1
-    - name: "About"
-      url: "/about/"
-      weight: 2
     - name: "Blog"
       url: "/en/"
-      weight: 3
-    - name: "Notes"
+      weight: 2
+    - name: "About"
+      url: "/about/"
+      weight: 4
+    - name: "@Work"
       url: "http://kangyu.postach.io/"
       weight: 3
     - name: "中文"
       url: "/cn/"
-      weight: 4
+      weight: 5
   cn:
     - name: "首页"
       url: "/"
       weight: 1
     - name: "关于"
       url: "/cn/about/"
-      weight: 2
+      weight: 4
     - name: "影迹"
       url: "/imstory/"
       weight: 3
     - name: "博客"
       url: "/cn/"
-      weight: 4
+      weight: 2
     - name: "..."
       url: "/test/"
       weight: 
