@@ -8,7 +8,7 @@ tags:
   - Git
 ---
 
-# Quick setups 
+# Quick setups for using Git and Github
 
 … create a new repository on the command line
 
