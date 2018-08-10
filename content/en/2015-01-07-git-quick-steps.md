@@ -8,7 +8,7 @@ tags:
   - Git
 ---
 
-# Quick setups
+# Quick setups 
 
 … create a new repository on the command line
 
@@ -20,7 +20,7 @@ git commit -m "first commit"
 git remote add origin https://github.com/rbind/kangyu.git
 git push -u origin master
 ```
-…or push an existing repository from the command line
+… or add an existing local repository to the remote from the command line
 ```
 git remote add origin https://github.com/rbind/kangyu.git
 git push -u origin master
@@ -29,8 +29,9 @@ git push -u origin master
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 Import code
 
+
 # Update changes
-after making local changes and you wish to push to your github repo
+after making local changes and you wish to push to your github repository
 ```
 git add .
 git commit -m "changes"
@@ -38,7 +39,7 @@ git push -u origin master
 ```
 
 # When update across devices, it needs to
-** update from online(remote) changes**
+** update (pull) from the remote changes**
 ```
 git pull origin master
 git commit -m "pull remote changes"
