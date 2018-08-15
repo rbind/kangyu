@@ -1,5 +1,5 @@
 ---
-title: "子贡倦于学愿有所息：闲看孔子教育方式"
+title: "子贡倦于学愿有所息：闲侃孔子教育方式"
 author: Kang
 date: '2018-08-06'
 slug: zigong-got-bored-of-studying-and-asked-for-a-break-let-s-take-a-new-look-at-confucius
@@ -8,7 +8,7 @@ tags: education
 ---
 
 
-*`纯属瞎扯概不负责`*
+*`纯属瞎扯[建议18岁以下在家长陪同下浏览]`*
 
 >子贡倦于学，告仲尼曰：愿有所息。仲尼曰：生无所息。
 
