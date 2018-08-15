@@ -11,10 +11,10 @@ tags:
 ---
 
 
-A problem since long I have:-( was that when I use Git with Dropbox on different computers (even worse on different OS), the .git folder in Dropbox keeps syncing changes, making annoying notifications in Dropbox. I googled and luckily found a blog post telling the trick on Linux, and I just made a similar workaround on Windows. Now I can use any Dropbox folder as a git repository, but store the `.git/` folder in a separate (non-Dropbox) directory by doing the following four steps. 
+A problem since long I have:-( was that when I use Git with Dropbox on different computers (even worse when sharing with others or on different OS), the .git folder in Dropbox keeps syncing changes, making annoying notifications in Dropbox. I googled and luckily found a blog post telling the trick on Linux, and I just made a similar workaround on Windows. Now I can use any Dropbox folder as a git repository, but store the `.git/` folder in a separate (non-Dropbox) directory by doing the following four steps. 
 
-## 1. Go to the Dropbox (share) folder (e.g., dir for this site)
-I recommend to use bash and do it via `cd`,
+## 1. Go to the Dropbox (share) folder (e.g., the dir for this site)
+Let's do it via `cd` in `bash` (it's pretty on windows),
 
     /c/.../Dropbox/kangyu.org
 
