@@ -48,8 +48,8 @@ It can be open in any text editor, and it contains the location of the real `.gi
 
 ![.git file content ](https://i.imgur.com/J4kYWNn.png)
 
-## 4. I can now just use as a normal *un-separate* .git folder 
-For instance check the git config. 
+## 4. Use as a normal *un-separate* .git folder 
+Although the file location is different, there shouldn't be any difference for using git. For instance check the git config. 
 
     $ git config user.name
     $ git remote show origin
