@@ -22,4 +22,4 @@ tags:
 
 终于把dual boot的OpenSUSE删了，很庆幸事先备好的Win10恢复盘没有派上用场！
 
-实施证明光删了那个十几个G的swap分区是不影响dual boot的。后来通过Windows自带的分区工具，`This PC` -> `Right Click` -> `Manage` -> `Disk Management` （或者在命令栏运行`diskmgmt`）直接格式化了OpenSUSE所占用的分区。然后，可利用`Extend Volume`把分区合并到系统分区，当然也可以当做独立的分区使用。
+事实证明光删了那个十几个G的swap分区是不影响dual boot的。后来通过Windows自带的分区工具，`This PC` -> `Right Click` -> `Manage` -> `Disk Management` （或者在命令栏运行`diskmgmt`）直接格式化了OpenSUSE所占用的分区。然后，可利用`Extend Volume`把分区合并到系统分区，当然也可以当做独立的分区使用。
