@@ -1,9 +1,9 @@
 ---
 title: 百年理发店的洗剪吹和自由
-author: ''
+author: 于康
 date: '2017-04-29'
 slug: barbershop and freedom
-categories: []
+categories: life
 tags: []
 ---
 

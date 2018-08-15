@@ -1,10 +1,10 @@
 ---
 title: 12 AM/PM 是什么鬼
-author: Kang
+author: 于康
 date: '2017-06-27'
 slug: how-to-not-get-confused-with-12-am-pm
-categories: []
-tags: []
+categories: life
+tags: datetime
 ---
 
 

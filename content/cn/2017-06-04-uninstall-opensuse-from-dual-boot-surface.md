@@ -1,6 +1,6 @@
 ---
 title: 删掉Surface双系统的OpenSUSE
-author: Kang
+author: 于康
 date: '2017-06-04'
 slug: uninstall-opensuse-from-dual-boot-surface
 categories:

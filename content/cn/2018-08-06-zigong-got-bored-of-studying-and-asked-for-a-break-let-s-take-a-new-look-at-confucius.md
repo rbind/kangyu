@@ -3,7 +3,7 @@ title: "子贡倦于学愿有所息：闲侃孔子教育方式"
 author: Kang
 date: '2018-08-06'
 slug: zigong-got-bored-of-studying-and-asked-for-a-break-let-s-take-a-new-look-at-confucius
-categories: cn
+categories: []
 tags: education
 ---
 

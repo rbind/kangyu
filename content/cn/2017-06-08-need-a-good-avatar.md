@@ -1,9 +1,9 @@
 ---
 title: 需要一个好的avatar
-author: Kang
+author: 于康
 date: '2017-06-08'
 slug: need-a-good-avatar
-categories: []
+categories: [ICT]
 tags: []
 ---
 

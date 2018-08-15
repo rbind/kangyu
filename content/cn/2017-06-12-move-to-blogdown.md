@@ -3,7 +3,7 @@ title: 搬家到blogdown
 author: 于康
 date: '2017-06-12'
 slug: move-to-blogdown
-categories: []
+categories: [ICT]
 tags: []
 ---
 
