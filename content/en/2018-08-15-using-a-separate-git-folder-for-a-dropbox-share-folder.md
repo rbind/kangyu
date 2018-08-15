@@ -32,7 +32,7 @@ On linux we can use the following `dropbox` command line,
 
 but it does not work on Windows. For windows this step can be done in the `Dropbox App -> Preferences -> Sync -> Selective Sync` by un-selecting the `.git` folder.
 
-## 3. Create a '.git' folder in the separate-gitroots for the share folder 
+## 3. Create a '.git' folder in the *separate-gitroots* for the share folder 
 
     $ git init --separate-git-dir=$HOME/.separate-gitroots/kangyu.org.git
     Initialized empty Git repository in C:/Users/.../.separate-gitroots/kangyu.org.git/
