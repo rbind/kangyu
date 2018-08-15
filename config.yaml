@@ -73,7 +73,7 @@ menu:
       weight: 
     - name: "English"
       url: "/en/"
-      weight: 5
+      weight: 6
   test:
 #    - name: "首页"
 #      url: "/"
@@ -87,12 +87,12 @@ menu:
     - name: "🚧施工请绕行🚧"
       url: "/test/"
       weight: 4
-    - name: "English"
-      url: "/en/"
-      weight:
     - name: "中文"
       url: "/cn/"
-      weight: 
+      weight: 5
+    - name: "English"
+      url: "/en/"
+      weight: 6
 
 params:
   description: "Personal website of Kang Yu"
