@@ -70,7 +70,7 @@ menu:
       weight: 2
     - name: "..."
       url: "/test/"
-      weight: 
+      weight: 5
     - name: "English"
       url: "/en/"
       weight: 6
