@@ -10,7 +10,7 @@ tags:
 ---
 
 
-Here the scientific computing is, as to my very limited knowledge, related mainly to my own interests and experiences in plant phenotyping and remote sensing. People now talk deep learning everywhere. The best machine learning library for deep learning might be the ‘TensorFlow’ which is developed by Google (years ago I knew nothing about python but heard that python was heavily used by Google). Python is known as an open-source high-level programming (scripting) language that is easy to read and understand. The greatest thing is that it can glues other programming languages for doing multi-tasks in one environment, e.g,. the famous Python-OpenCV library, based on which the ‘PlantCV’ is developed https://github.com/danforthcenter/plantcv. 
+Here the **scientific computing** is, as to my very limited knowledge, related narrowly to my own interests and experiences in plant phenotyping and remote sensing. People now talk deep learning everywhere. The best machine learning library for deep learning might be the ‘TensorFlow’ which is developed by Google (years ago I knew nothing about python but heard that python was heavily used by Google). Python is known as an open-source high-level programming (scripting) language that is easy to read and understand. The greatest thing is that it can glues other programming languages for doing multi-tasks in one environment, e.g,. the famous Python-OpenCV library, based on which the ‘PlantCV’ is developed https://github.com/danforthcenter/plantcv. 
 
 The learning curve might be deep, but it will boost your efficiency and creativity and extend your skills far beyond, as well as bring added value for future career development.
 
