@@ -16,9 +16,10 @@ The learning curve might be deep, but it will boost your efficiency and creativi
 
 ## Some Free IDEs:
 Data scientists are extremely active in python development. For scientific programming there are several Python IDE similar to Matlab and RStudio, for instance the: 
-Spyder https://github.com/spyder-ide/spyder. it was also available in the ETH apps kiosk, but now seems has been removed..
-Canopy https://www.enthought.com/ and Anaconda () will make the package management easy.
-Jupyter (http://jupyter.org/), a modern web-based interface, typing in bash ‘jupyter notebook’ will open your browser for live scripting, this is so cool!!
+
+- **[Spyder](https://github.com/spyder-ide/spyder)** is a Rstudio-like IDE.
+- **[Canopy](https://www.enthought.com/)** and **[Anaconda](https://www.anaconda.com/download/)** will simplify the package management.
+- **[Jupyter](http://jupyter.org/)**, a modern web-based interface, typing in bash ‘jupyter notebook’ will open your browser for live scripting, this is so cool!!
 
 Screenshots for Canopy and Jupyter
 *Canopy*
@@ -30,12 +31,12 @@ Screenshots for Canopy and Jupyter
 There is also a MinGW for running linux’s bash in Windows. http://www.mingw.org/ , as well as other various options that Google won’t refuse to help you find out!
 
 ## Some great websites for learning scientific python: 
-http://www.scipy-lectures.org/
+[Scipy Lecture Notes](http://www.scipy-lectures.org/) is a great source of learning materials and examples.
 
-### python for image analysis
+#### python for image analysis
 http://www.scipy-lectures.org/packages/scikit-image/    
 http://www.scipy-lectures.org/advanced/image_processing/    
 http://scikit-image.org/
 
-### python for machine learning
+#### python for machine learning
 http://scikit-learn.org/stable/index.html
