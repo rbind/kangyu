@@ -22,10 +22,10 @@ Jupyter (http://jupyter.org/), a modern web-based interface, typing in bash ‘j
 
 Screenshots for Canopy and Jupyter
 *Canopy*
-<img src="https://i.imgur.com/RnEiz3P.png" alt="Jupyter" width="250"/>    
+<img src="https://i.imgur.com/RnEiz3P.png" alt="Jupyter" width="400"/>    
 
 *Jupyter*
-<img src="https://i.imgur.com/lJO7Mj6.png" alt="Jupyter" width="250"/>    
+<img src="https://i.imgur.com/lJO7Mj6.png" alt="Jupyter" width="400"/>    
 
 There is also a MinGW for running linux’s bash in Windows. http://www.mingw.org/ , as well as other various options that Google won’t refuse to help you find out!
 
