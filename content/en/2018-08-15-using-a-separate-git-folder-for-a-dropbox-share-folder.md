@@ -11,7 +11,7 @@ tags:
 ---
 
 
-A problem since long I have:-( was that when I use Git with Dropbox on different computers (even worse when sharing with others or on different OS), the .git folder in Dropbox keeps syncing changes, making annoying notifications in Dropbox. I googled and luckily found a blog post telling the trick on Linux, and I just made a similar workaround on Windows. Now I can use any Dropbox folder as a git repository, but store the `.git/` folder in a separate (non-Dropbox) directory by doing the following ~~four~~ steps. 
+A problem since long I have:-( was that when I use Git with Dropbox on different computers (even worse when sharing with others or on different OS), the .git folder in Dropbox keeps syncing changes, making annoying notifications in Dropbox. I googled and luckily found a blog post telling the trick on Linux, and I just made a similar workaround on Windows. Now I can use any Dropbox folder as a git repository, but store the `.git/` folder in a separate (non-Dropbox) directory by doing the following ~~four~~three steps. 
 
 ## 1. Go to the Dropbox (share) folder (e.g., the dir for this site)
 Let's do it via `cd` in the `Git Bash` (it's pretty on windows),
@@ -41,12 +41,11 @@ but it does not work on Windows. For windows this step can be done in the `Dropb
 
 This step will create (or move as shown below, if you already created one in the Dropbox share folder) the git repository in `$HOME/.separate-gitroots/kangyu.org.git` instead of in the Dropbox folder `kangyu.org/.git/`. 
 
-<img src="img/move_existing_.git.PNG" alt="Existing '.git' will be moved to the sep-gitroot" width="400"> 
-
+<img src="https://i.imgur.com/yjuu1jK.png" alt="Existing '.git' will be moved to the sep-gitroot" width="480"> 
 
 Now the `kangyu.org/.git` will be a plain text file displayed as follows (not a folder), which is only visible when your windows is set to show the **hidden items**. 
 
-![.git as a plain text file](https://i.imgur.com/4YHB09q.png){:.thumbnail.bordered}
+![.git as a plain text file](https://i.imgur.com/4YHB09q.png)
 
 It can be open in any text editor, and it contains the location of the real `.git` directory, i.e., the `kangyu.org.git` directory created in *separate-gitroots*. 
 
