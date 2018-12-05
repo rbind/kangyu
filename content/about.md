@@ -18,4 +18,21 @@ When Kang is not doing his research, Kang talks something about himself like thi
 ![Kang 2014-Apr Switzerland](http://i.imgur.com/HHf0pTJ.jpg)
 Thanks for visiting!
 
-`if you want to know more about my work` <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0686-6783" href="https://orcid.org/0000-0002-0686-6783" target="orcid.widget" rel="noopener noreferrer" style="horizontal-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-0686-6783</a></div>
+
+
+
+
+
+
+> if (you in visitors) {
+> 
+>   a = you want to know more about my work
+> 
+>   b = you might want to check my [ORCID](https://orcid.org/0000-0002-0686-6783)
+>   <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0686-6783" href="https://orcid.org/0000-0002-0686-6783" target="orcid.widget" rel="noopener noreferrer" style="horizontal-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-0686-6783</a></div>
+
+>   c = i owe you a beer, cheers!
+>   
+>   if any(a, b)  return(c) 
+>   
+>   }
