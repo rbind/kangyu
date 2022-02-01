@@ -4,7 +4,7 @@ title: "Kang Yu"
 theme: "hugo-lithium-theme"
 googleAnalytics: "UA-100370947-1"
 disqusShortname: "kangyu"
-ignoreFiles: ["\\.Rmd$", "_files$", "_cache$"]
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 hasCJKLanguage: true
 enableEmoji: true
 footnotereturnlinkcontents: "↩"
